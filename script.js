@@ -8,6 +8,8 @@
 // }
 
 // let myguess = secretNumber();
+console.log("Computer's secret number:", myguess);
+
 // console.log(myguess);
 
 // //Button Function
