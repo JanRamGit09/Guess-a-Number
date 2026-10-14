@@ -8,7 +8,6 @@
 // }
 
 // let myguess = secretNumber();
-console.log("Computer's secret number:", myguess);
 
 // console.log(myguess);
 
@@ -43,6 +42,8 @@ function secretNumber() {
 }
 
 let myguess = secretNumber();
+console.log("Computer's secret number:", myguess);
+
 let attempts = 0;
 const maxAttempts = 5;
 
