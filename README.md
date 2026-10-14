@@ -52,6 +52,6 @@ I also practiced identifying and fixing errors using browser developer tools and
 
 ## 👩‍💻 Author
 
-**Janani Rajapandian**
+**Janani**
 
 Computer Science Student | Aspiring Software Engineer
